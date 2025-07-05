@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/non906-omniparser-autogui-mcp-badge.png)](https://mseep.ai/app/non906-omniparser-autogui-mcp)
+
 # omniparser-autogui-mcp
 
 （[日本語版はこちら](README_ja.md)）
